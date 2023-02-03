@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "378488992198",
+    "project_id": "loginandregister-c4306",
+    "storage_bucket": "loginandregister-c4306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378488992198:android:1ca71710b7dcd4f53742c7",
+        "android_client_info": {
+          "package_name": "com.example.authenicaton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378488992198-e1b0s5qffm7u8cbjscss23plu3eddn5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjQwpKwEgKeTYdWGFlBBqiWA9hk8fLZ14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378488992198-e1b0s5qffm7u8cbjscss23plu3eddn5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
